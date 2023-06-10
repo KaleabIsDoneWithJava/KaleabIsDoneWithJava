@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 4th-year computer science student.<br>A UX/UI designer who dove headfirst into programming.<br>Currently polishing my React & React Native skills.<br>If you have an intriguing project you'd want to collaborate on, let's talk.
+A 4th-year computer science student.<br>Currently polishing my React & React Native skills.<br>If you have an intriguing project you'd want to collaborate on, let's talk.
 
 
 ## 🌐 Socials:

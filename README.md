@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 4th-year computer science student.<br>Currently polishing my React & React Native skills.<br>If you have an intriguing project you'd want to collaborate on, I have a team. Let's talk.
+A 4th-year computer science student.<be> Working as a Technical Product Manager.<br>Currently polishing my React & React Native skills.<br>If you have an intriguing project you'd want to collaborate on, I have a team. Let's talk.
 
 
 ## 🌐 Socials:

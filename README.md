@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building websites, apps, & brands for startup founders.<br>Currently polishing my React & React Native skills.<br>If you have an intriguing project you'd want to collaborate on, I have a team. Let's talk.
+Building websites, apps, & brands.<br>Currently polishing my React & React Native skills.<br>If you have an intriguing project you'd want to collaborate on, I have a team. Let's talk.
 
 
 ## 🌐 Socials:

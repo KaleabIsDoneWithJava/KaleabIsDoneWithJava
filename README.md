@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build websites, apps, & brands.<br>Currently polishing my<br>- React<br>- React Native <br>- Product design<br>- Team management<br><br>Reach out if you want to collaborate with me and my team. 😉<br>
+A designer at heart, a developer and PM by need.<br> I am Always on here polishing my React and React Native skills.
 
 
 ## 🌐 Socials:

@@ -4,7 +4,7 @@ A designer at heart, a developer and PM by need.<br> I'm always on here polishin
 
 ## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ka1eab/) 
-[![Portfolio](https://ka1eab.com)](https://ka1eab.com) 
+[![Portfolio]](https://ka1eab.com) 
 
 
 # 💻 Tech Stack:

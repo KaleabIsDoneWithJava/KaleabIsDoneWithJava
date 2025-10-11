@@ -1,5 +1,5 @@
 # 💫 About Me:
-A designer at heart, a developer and PM by need.<br> I'm always on here polishing my React and React Native skills.
+A designer at heart, a developer and PM by need.<br> I'm always on here polishing my React and React Native skills.<br>
 [👨‍💻 **Portfolio**](https://ka1eab.com) 
 
 
